@@ -86,7 +86,7 @@ java -jar target/user-notes-backend-*.jar
 ### Frontend
 ```bash
 cd user_notes_frontend
-ng build --configuration production
+npm run build 
 ```
 
 The production build will be in `user_notes_frontend/dist/`
