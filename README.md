@@ -5,7 +5,7 @@ A full-stack application for managing user notes with a Spring Boot backend and 
 ## Prerequisites
 
 ### Backend
-- Java 17 or higher
+- Java 17 or higher (works with 25).
 
 ### Frontend
 - Node.js 24 or higher
