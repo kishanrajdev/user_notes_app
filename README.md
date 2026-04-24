@@ -72,7 +72,6 @@ The backend API documentation is available at:
 1. **Start the backend first** on port 8080
 2. **Start the frontend** on port 4200
 3. The frontend is configured with a proxy to the backend (see `proxy.conf.json`)
-4. Make changes and the development servers will auto-reload
 
 ## Building for Production
 
