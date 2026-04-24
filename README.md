@@ -6,7 +6,6 @@ A full-stack application for managing user notes with a Spring Boot backend and 
 
 ### Backend
 - Java 17 or higher
-- Maven is **not required** - the project includes Maven Wrapper (mvnw)
 
 ### Frontend
 - Node.js 24 or higher
@@ -65,7 +64,7 @@ user_notes_app/
 ## API Documentation
 
 The backend API documentation is available at:
-- Swagger UI: `http://localhost:8080/swagger-ui.html`
+- Swagger UI: `http://localhost:8080/swagger-ui/index.html`
 - OpenAPI spec: `http://localhost:8080/v3/api-docs`
 
 ## Development Workflow
